@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: [Your Name] | Reg No: [Your Registration Number]
+# Author: Hardik Gaur | Reg No: 24BAI10484
 # Course: Open Source Software
 # Purpose: Ask the user three questions interactively and generate
 #          a personalised open source philosophy statement,
