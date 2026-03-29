@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name] | Reg No: [Your Registration Number]
+# Author: Hardik Gaur | Reg No: 24BAI10484
 # Course: Open Source Software
 # Purpose: Loop through key Linux directories and report
 #          permissions, ownership, and disk usage for each
