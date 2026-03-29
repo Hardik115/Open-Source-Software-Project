@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Your Name] | Reg No: [Your Registration Number]
+# Author: Hardik Gaur | Reg No: 24BAI10484
 # Course: Open Source Software
 # Purpose: Display a welcome screen showing key system information
 
 # --- Student details ---
-STUDENT_NAME="[Your Name]"
-REG_NO="[Your Registration Number]"
+STUDENT_NAME="Hardik Gaur"
+REG_NO="24BAI10484"
 SOFTWARE_CHOICE="Git"
 
 # --- Collect system information using command substitution ---
